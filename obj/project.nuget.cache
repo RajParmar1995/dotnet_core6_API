@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7SDDcflrx10sY299qS6IcQ/OzQwgBGQxoIo25/b9S3x+FPe8BwfpYa7/vRcWLez5MkYKNoK7f/9ITEtICHbWmg==",
+  "dgSpecHash": "81rlqBCWlCMRRxjuL1D9CNCS5p3YMZ8+PG0fZ8b1P3MJYXxSaxGp/xwUtAnE2WHim4t+zOxaE42HOEFh3Xzr2g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\pc\\Desktop\\.net6\\TodoApi\\dotnet_core6_API\\TodoApi.csproj",
+  "projectFilePath": "C:\\Users\\pc\\Desktop\\.net6\\TodoApi\\dotnet_core6_API\\TodoApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
@@ -211,8 +211,6 @@
     "C:\\Users\\pc\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.21\\microsoft.netcore.app.runtime.linux-x64.6.0.21.nupkg.sha512",
-    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.21\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.21.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.21\\microsoft.netcore.app.host.linux-x64.6.0.21.nupkg.sha512"
   ],
   "logs": []
